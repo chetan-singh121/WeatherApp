@@ -330,6 +330,11 @@ h1{
         /* height: 100vh; */
         overflow: auto;
     }
+      .eror img
+        {
+    width:300px;
+    height: 300px;
+        }
 
 }
 
